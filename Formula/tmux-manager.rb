@@ -1,8 +1,8 @@
 class TmuxManager < Formula
   desc "Go TUI for starting, re-entering, and rebuilding tmux workspaces"
   homepage "https://github.com/okakoh/tmux-manager"
-  url "https://github.com/okakoh/tmux-manager/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "4d8698d5c7a3a4aeb820f2296169141bba1fa652a0af853137b82361d2281361"
+  url "https://github.com/okakoh/tmux-manager/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "3f6cd59a0694de910493bb295da44a10c6577b447289d68e372736d05f19473a"
   license "MIT"
   head "https://github.com/okakoh/tmux-manager.git", branch: "main"
 
